@@ -1,3 +1,0 @@
-# Stock_Management
-
-
